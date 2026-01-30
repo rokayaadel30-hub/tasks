@@ -1,0 +1,9 @@
+temp = 30
+if temp >= 30:
+   print('it is a hot day. stay hyrated')
+elif temp >= 20:
+    print('it is a warm day. enjoy the weather')
+elif temp >= 10:
+    print('it is a cool day. wear a jacket')
+else:
+    print('it is a cold day. stay warm')
